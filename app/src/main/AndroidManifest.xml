@@ -17,10 +17,6 @@
             android:name=".service.AutoUpdateService"
             android:enabled="true"
             android:exported="true"></service>
-        <service
-            android:name=".service.MyService"
-            android:enabled="true"
-            android:exported="true" />
 
         <activity android:name=".WeatherActivity" />
         <activity android:name=".MainActivity">
